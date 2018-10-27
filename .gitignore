@@ -1,1 +1,6 @@
+/bin
+# Don't version doc, generate it locally with doxygen if needed
+/doc
+
 *.class
+*.jar
